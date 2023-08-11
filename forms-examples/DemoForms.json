@@ -67,7 +67,7 @@
                                             "allowCalculateOverride": false,
                                             "validateOn": "change",
                                             "validate": {
-                                                "required": false,
+                                                "required": true,
                                                 "pattern": "",
                                                 "customMessage": "",
                                                 "custom": "",
@@ -298,7 +298,7 @@
                                             "allowCalculateOverride": false,
                                             "validateOn": "change",
                                             "validate": {
-                                                "required": false,
+                                                "required": true,
                                                 "pattern": "",
                                                 "customMessage": "",
                                                 "custom": "",
