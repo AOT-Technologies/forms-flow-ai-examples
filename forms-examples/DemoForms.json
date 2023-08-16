@@ -1,7 +1,7 @@
 {
     "forms": [
         {
-            "title": "Leave  Form",
+            "title": "Sample Leave Application Form",
             "display": "form",
             "type": "form",
             "name": "leaveform",
@@ -1422,7 +1422,7 @@
             ]
         },
         {
-            "title": "New Business License Application",
+            "title": "Sample New Business Application Form",
             "display": "form",
             "type": "form",
             "name": "newbusinesslicense",
