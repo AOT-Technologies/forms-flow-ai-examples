@@ -1783,7 +1783,7 @@
               "description": "Assigns value to a specified variable",
               "attributes": {
                 "variableToUpdate": "applicationStatus",
-                "newValue": "{{actionType}}",
+                "newValue": "{{action}}",
                 "variableLabel": "Submission Status (applicationStatus)"
               },
               "label": "SET_OR_UPDATE_VARIABLE",
